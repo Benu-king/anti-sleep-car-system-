@@ -123,14 +123,6 @@ python Benu_car_antisleepsystem.py
 - **ffmpeg missing** → Install and add to PATH.  
 - **No sound** → Check your output device.  
 - **Arduino not responding** → Verify the correct COM port.
-
----
-
-## 🚀 Future Ideas
-- Add head-tilt sleep detection  
-- GPS-based emergency SMS alerts  
-- Real-time web dashboard using Flask
-
 ---
 
 ### ❤️ Made by **Benayas Wondwosen**  
@@ -139,5 +131,6 @@ python Benu_car_antisleepsystem.py
 "# anti-sleep-car-system-" 
 "# anti-sleep-car-system-" 
 "# anti-sleep-car-system-" 
+
 
 
