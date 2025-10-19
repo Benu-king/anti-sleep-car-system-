@@ -11,7 +11,7 @@ The **Benu Car Anti-Sleep System** is a safety assistant that monitors the drive
 
 When drowsiness is detected (eyes closed for a few seconds), the system:
 - Sends a **STOP** command to the Arduino.
-- Plays an **Amharic voice alert** ("እንቅልፍህ ከመጣ መኪናውን አቁመው አቶ ቤንያስ!").
+- Plays an **Amharic voice alert** ("እንቅልፍህ ከመጣ መኪናውን አቁመው አቶ በንያስ!").
 - Displays a **red visual warning** on screen.
 
 When the driver’s eyes reopen:
@@ -139,4 +139,5 @@ python Benu_car_antisleepsystem.py
 "# anti-sleep-car-system-" 
 "# anti-sleep-car-system-" 
 "# anti-sleep-car-system-" 
+
 
